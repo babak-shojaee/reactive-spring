@@ -6,9 +6,7 @@ import reactor.core.publisher.Flux;
 
 import java.util.TreeMap;
 
-/**
- *
- * @author Babak */
+
 @Slf4j
 public class FluxAnyExample {
 

@@ -4,9 +4,7 @@ package com.unclebabak.reactivespring.flux;
 import lombok.extern.slf4j.Slf4j;
 import reactor.core.publisher.Flux;
 
-/**
- *
- * @author Babak */
+
 @Slf4j
 public class FluxRangeExample {
     

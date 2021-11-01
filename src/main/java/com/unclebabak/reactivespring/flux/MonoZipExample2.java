@@ -7,9 +7,7 @@ import reactor.core.publisher.Mono;
 import reactor.core.publisher.MonoSink;
 import reactor.core.scheduler.Schedulers;
 
-/**
- *
- * @author Babak */
+
 @Slf4j
 public class MonoZipExample2 {
     

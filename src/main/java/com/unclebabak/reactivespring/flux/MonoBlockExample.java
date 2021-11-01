@@ -4,9 +4,7 @@ package com.unclebabak.reactivespring.flux;
 import lombok.extern.slf4j.Slf4j;
 import reactor.core.publisher.Mono;
 
-/**
- *
- * @author Babak */
+
 @Slf4j
 public class MonoBlockExample {
     

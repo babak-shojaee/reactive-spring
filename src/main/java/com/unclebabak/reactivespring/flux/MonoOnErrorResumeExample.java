@@ -10,9 +10,7 @@ import lombok.extern.slf4j.Slf4j;
 import reactor.core.publisher.Mono;
 import reactor.core.publisher.MonoSink;
 
-/**
- *
- * @author Babak */
+
 @Slf4j
 public class MonoOnErrorResumeExample {
 

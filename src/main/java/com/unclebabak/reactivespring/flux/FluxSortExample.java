@@ -7,9 +7,7 @@ import reactor.core.publisher.Flux;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- *
- * @author Babak */
+
 @Slf4j
 public class FluxSortExample {
 
